@@ -20,5 +20,6 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Other technologies used:
+Mock http requests: https://jsonplaceholder.typicode.com/
+Routing: vue-router
