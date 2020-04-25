@@ -20,6 +20,6 @@ yarn build
 yarn lint
 ```
 
-##Other technologies used:
+## Other technologies used:
 * Mock http requests: https://jsonplaceholder.typicode.com/
 * Routing: vue-router
