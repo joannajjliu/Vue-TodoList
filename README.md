@@ -23,3 +23,6 @@ yarn lint
 ## Other technologies used:
 * Mock http requests: https://jsonplaceholder.typicode.com/
 * Routing: vue-router
+
+## Other notes:
+* todo tasks aren't saved on reload, since JSON placeholder does not persist our data
